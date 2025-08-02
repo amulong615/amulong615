@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @amulong615
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-amulong615/amulong615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🚀 你好，世界！我是 阿木龙 | Amulong 
+
+> **🌌 INFJ-T | 高三开发者 × 创意多面体**  
+> *用代码编织理想，以设计雕琢现实*
+
+---
+
+## 🛠️ 技术 & 创意工具箱
+```diff
++ 前端工程：React · Vue · 小程序生态 · 响应式架构
++ 视觉魔法：UI/UX设计 · AE动效 · 三维渲染 · 视频创作
++ 产品思维：全流程开发 · 系统架构 · 跨平台部署
+
+
+🏢 团队创世者
+阿木龙工作室 & 至魅出版社创始人 · 2017至今
+▶ 主导开发10+全栈项目（官网/平台/小程序）
+▶ 技术栈跨越JavaScript生态 · 云服务 · 交互设计
+▶ 实现从需求分析到上线运维全生命周期管理
+
+✍️ 内容创作引擎
+双公众号独立运营 · 2018持续输出
+📌 300+原创文章 · 🔥 单篇阅读量破千
+💡 主题覆盖：前端技巧 | 设计哲学 | 青年创新力
+✏️ 原创专栏：《代码与画笔的对话》《学生开发者的进击》
+
+🎬 艺术技术指挥官
+校级大型晚会总策划 × 主撰稿
+
+校园艺术节首席技术官
+🎛️ 舞台灯光/音响系统实时调控专家
+🖥️ 自主研发晚会播控管理系统
+📐 会议活动视觉体系设计（主KV+动态物料）
